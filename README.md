@@ -1,0 +1,2 @@
+# Sentimental-Analysis
+A sarcasm is indirect speech or text that conveys an implicit meaning. Because of this characteristic of sarcasm it is hard to recognize sarcasm. The difficulty in recognition of sarcasm causes misunderstanding in everyday communication. In addition to identification, polarity detection of sarcasm is also a complex task and adds to the complexity in determining polarity. This is the reason not much work is done on polarity detection through sarcasm.
